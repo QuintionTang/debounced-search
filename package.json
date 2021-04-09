@@ -1,0 +1,23 @@
+{
+  "name": "debounced-search",
+  "version": "0.0.1",
+  "author": "Quintion <QuintionTang@gmail.com>",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.1",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuintionTang/debounced-search.git"
+  },
+  "license": "MIT"
+}
